@@ -15,5 +15,6 @@ p
 h1
 
 {
+    border: 2px;
     border-color: rgb(255,199,110)
 }
