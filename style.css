@@ -1,6 +1,6 @@
 body
 {
-    background-image: url('Marmur.jfif');
+    background-image: url("Marmur.jfif");
     background-color:pink
     
 }
@@ -11,4 +11,10 @@ p
     color: teal;
     font-size: 18pt;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Times, serif;
+}
+
+h
+
+{
+
 }
