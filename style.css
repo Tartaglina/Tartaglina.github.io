@@ -1,6 +1,7 @@
 body
 {
 
+    background-image: url('snieg.ong');
 
 }
 
@@ -9,7 +10,7 @@ p
 {
     font-size: 18pt;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Times, serif;
-    background-image: url('snieg.ong');
+ 
 }
 
 h1
